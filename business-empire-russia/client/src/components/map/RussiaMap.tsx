@@ -1,0 +1,2 @@
+// RussiaMap.tsx
+export {};

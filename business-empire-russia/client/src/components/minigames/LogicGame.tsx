@@ -1,0 +1,2 @@
+// LogicGame.tsx
+export {};

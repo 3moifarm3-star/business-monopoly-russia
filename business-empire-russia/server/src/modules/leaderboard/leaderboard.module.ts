@@ -1,0 +1,2 @@
+// leaderboard.module.ts
+export {};

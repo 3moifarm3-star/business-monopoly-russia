@@ -1,0 +1,2 @@
+// city.entity.ts
+export {};

@@ -1,0 +1,2 @@
+// job.entity.ts
+export {};

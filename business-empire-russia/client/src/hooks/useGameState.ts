@@ -1,0 +1,2 @@
+// useGameState.ts
+export {};

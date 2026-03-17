@@ -1,0 +1,2 @@
+// economy.ts
+export {};

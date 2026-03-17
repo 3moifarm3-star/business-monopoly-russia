@@ -1,0 +1,2 @@
+// IncomeTimer.tsx
+export {};

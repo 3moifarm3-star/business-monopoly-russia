@@ -1,0 +1,2 @@
+// jobSlice.ts
+export {};

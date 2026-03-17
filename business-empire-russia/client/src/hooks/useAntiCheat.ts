@@ -1,0 +1,2 @@
+// useAntiCheat.ts
+export {};

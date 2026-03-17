@@ -1,0 +1,2 @@
+// daily.module.ts
+export {};

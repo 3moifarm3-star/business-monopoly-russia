@@ -1,0 +1,2 @@
+// daily.service.ts
+export {};

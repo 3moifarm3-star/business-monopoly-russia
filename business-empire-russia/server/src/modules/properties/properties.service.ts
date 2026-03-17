@@ -1,0 +1,2 @@
+// properties.service.ts
+export {};

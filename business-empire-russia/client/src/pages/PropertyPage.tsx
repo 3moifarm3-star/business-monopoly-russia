@@ -1,0 +1,2 @@
+// PropertyPage.tsx
+export {};

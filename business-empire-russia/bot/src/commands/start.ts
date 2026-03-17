@@ -1,0 +1,2 @@
+// start.ts
+export {};

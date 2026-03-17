@@ -1,0 +1,2 @@
+// BusinessPage.tsx
+export {};

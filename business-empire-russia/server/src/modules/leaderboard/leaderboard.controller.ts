@@ -1,0 +1,2 @@
+// leaderboard.controller.ts
+export {};

@@ -1,0 +1,2 @@
+// StreakDisplay.tsx
+export {};

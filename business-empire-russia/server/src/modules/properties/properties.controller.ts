@@ -1,0 +1,2 @@
+// properties.controller.ts
+export {};
